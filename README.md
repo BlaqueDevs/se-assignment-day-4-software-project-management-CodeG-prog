@@ -107,7 +107,30 @@ The chart helps to highlight achieved milestones to relevant stakeholders.
 Gantt charts can include resource assignments, which help in managing and tracking the resources allocated to each task. This makes it easier to spot potential resource overloads or underutilization early on.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+
+
+The core issues that my software (CArtificial Intelligence software called Informed) aims to address revolve around enhancing communication, improving information access, and facilitating problem-solving in various contexts. These include:
+
+Information Accessibility:
+Many people struggle to find accurate and relevant information quickly. Traditional search engines often provide overwhelming amounts of data, and finding the right answers can be time-consuming.
+My software simplifies access to concise, accurate information, offering users faster insights and solutions, whether for research, learning, or problem-solving.
+
+Natural Language Understanding and Interaction:
+Communication with machines has traditionally been clunky and unnatural. People often have to adapt their language to fit rigid software, which limits user experience.
+ By allowing users to communicate naturally, I make it easier for people to interact with technology, especially for those who are not tech-savvy or who are looking for more intuitive, human-like engagement.
+
+Time Efficiency:
+ Many tasks, like writing, brainstorming, or analyzing data, can take a long time or require specialized expertise that not everyone has.
+ My software helps users save time by offering quick suggestions, automating routine tasks, and generating ideas at scale, hence enabling individuals and teams to focus on higher-priority work.
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+Clearly defining the problem is crucial in developing an effective software solution for several reasons:
+
+A well-defined problem helps the development team stay focused on the core goals of the software. Without clarity, teams might drift into addressing irrelevant issues or unnecessary features, leading to wasted time and resources.
+A clear problem definition ensures all stakeholders (developers, clients, users, etc.) have a shared understanding of the issue. This prevents misunderstandings, scope creep, and misalignment on project expectations. When the problem is well understood, developers can design a system that directly addresses the needs of the users and the project. Clear problem definition aids in making better architectural choices that will scale and meet the performance requirements.
+A clear problem definition allows for better identification of potential risks early in the process. Developers can foresee challenges and constraints, making it easier to mitigate those risks before they escalate.
+A precise problem definition provides measurable goals for success. It becomes easier to assess whether the software solution is effective, based on how well it solves the problem it was designed to address.
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 ## 11. What are the main features or functionalities that make your software stand out?
 ## 12. What data is available regarding the market size and growth potential for your software?
