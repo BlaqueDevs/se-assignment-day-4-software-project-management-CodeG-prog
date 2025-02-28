@@ -13,7 +13,16 @@ With regular cost tracking and analysis, project managers can make informed deci
 
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
 Agile is a flexible, iterative approach to project management. It emphasizes continuous delivery, collaboration, and the ability to respond to change while waterfall method refers to a traditional, linear project management methodology. It is a structured approach in which a project is divided into distinct phases that are completed one after the other in a sequential manner.
-Advanatages of agile include;
+Advantages of agile include;
+-Agile allows for changes in project scope and requirements, making it ideal for projects with uncertain or evolving requirements thus flexible.
+-Regular feedback from stakeholders ensures the project meets customer needs and expectations.
+- Working increments are delivered at the end of each sprint, allowing stakeholders to see results sooner and potentially make early changes.
+-Improved Risk Management: Issues can be identified and addressed earlier, as each iteration provides opportunities to test and reassess.
+-Collaboration and Teamwork: Emphasis on communication and collaboration leads to better team cohesion and more innovative solutions.
+Disadvantages of Agile include;
+-Due to flexibility, agile can make it hard to predict overall costs and time of project
+-Agile requires regular involvement from stakeholders and customers, which can be time-consuming and demanding.
+There is a risk of scope creep because the requirements evolve, there's a risk of the project expanding beyond its original scope, leading to uncontrolled growth.
 
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
