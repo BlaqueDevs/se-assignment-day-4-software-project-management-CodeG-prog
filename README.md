@@ -19,10 +19,23 @@ Advantages of agile include;
 - Working increments are delivered at the end of each sprint, allowing stakeholders to see results sooner and potentially make early changes.
 -Improved Risk Management: Issues can be identified and addressed earlier, as each iteration provides opportunities to test and reassess.
 -Collaboration and Teamwork: Emphasis on communication and collaboration leads to better team cohesion and more innovative solutions.
+
 Disadvantages of Agile include;
+
 -Due to flexibility, agile can make it hard to predict overall costs and time of project
 -Agile requires regular involvement from stakeholders and customers, which can be time-consuming and demanding.
 There is a risk of scope creep because the requirements evolve, there's a risk of the project expanding beyond its original scope, leading to uncontrolled growth.
+
+Advantages of waterfall include;
+
+-The project has a clear, predictable flow with well-defined stages, making it easy to manage and understand.
+-When the requirements are well-understood and unlikely to change, Waterfall can be effective.
+- If the project’s scope is clear from the start, Waterfall works well because there is little need for iteration.
+  Disadvanatages of waterfall include;
+-Once a phase is completed, it's difficult to go back and make changes hence rigidity.
+-Testing begins only after development is complete, which can lead to the discovery of issues late in the process, making them expensive to fix.
+ -The methodology does not handle scope changes well, making it unsuitable for projects where requirements are expected to evolve.
+ -Stakeholders don't see a working product until late in the project, so feedback comes too late to make changes.
 
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
